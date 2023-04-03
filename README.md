@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=884EF7&width=435&lines=Hello%2C+There!+%F0%9F%91%8B+;This+is+John+Evwer;Feel+free+to+connect....;Nice+to+meet+you!)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=884EF7&width=435&lines=Hello%2C+There!+%F0%9F%91%8B+;This+is+John+Evwer;Feel+free+to+connect....;Nice+to+meet+you!)](https://git.io/typing-svg)
 
 
 - 🔭 I’m currently enrolled in ALX SOFTWARE ENGINEERING PROGRAM
