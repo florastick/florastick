@@ -7,8 +7,10 @@
 
 
 
-- 🔭 I’m currently enrolled in ALX SOFTWARE ENGINEERING PROGRAM
-- 🌱 I’m currently learning C Programming, HTML/CSS, Linux, Git, JavaScript and Python
+- 🔭 I’m a certified Software Developer 
+- 🌱 I build pixel-perfect, engaging, and accessible digital experiences.
+
+GitHubLinkedInCodePen
 - 👯 I’m looking to collaborate on Machine Learning project, AI and Software development
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about anything here
